@@ -18186,6 +18186,11 @@ Panel cutout 0.441" &lt;br&gt;</description>
 </parts>
 <sheets>
 <sheet>
+<description>&lt;b&gt;Boxed Kit Amps SoloG&lt;/b&gt;&lt;p&gt;
+Pocket Guitar Amp&lt;p&gt;
+licensed under Creative Commons CC BY-SA-NC 2.5&lt;br&gt;
+Contact: &lt;em&gt;http://www.boxedkitamps.com&lt;/em&gt;&lt;br&gt;
+Open Source: &lt;em&gt;https://github.com/boxedkitamps/SoloG&lt;/em&gt;</description>
 <plain>
 <text x="22.86" y="73.66" size="1.778" layer="91">BATTERY</text>
 </plain>

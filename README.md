@@ -3,8 +3,10 @@ SoloG
 
 Pocket Guitar Amp
 
-solog.brd - Eagle layout
+soloG.brd - Eagle layout
 
-solog.sch - Eagle schematic
+soloG.sch - Eagle schematic
 
-SoloGx1-FP.svg - Face Plate
+soloG.scr, soloG.lbr - Eagle exports
+
+SoloG-fpX1.svg - Face Plate
